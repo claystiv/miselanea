@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "miselanea", "miselanea.csproj", "{83EDDB53-FE03-4D9D-9EB3-3C3D7CF84CD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83EDDB53-FE03-4D9D-9EB3-3C3D7CF84CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83EDDB53-FE03-4D9D-9EB3-3C3D7CF84CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83EDDB53-FE03-4D9D-9EB3-3C3D7CF84CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83EDDB53-FE03-4D9D-9EB3-3C3D7CF84CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2308A6FB-371A-43F5-9236-01E886B4FDC8}
+	EndGlobalSection
+EndGlobal
